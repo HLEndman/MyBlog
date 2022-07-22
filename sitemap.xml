@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://hlendman.cn/article/wearospair/</loc>
+    
+    <lastmod>2019-11-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hlendman.cn/links/index.html</loc>
+    
+    <lastmod>2019-11-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hlendman.cn/about/index.html</loc>
+    
+    <lastmod>2019-06-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hlendman.cn/article/hello-world/</loc>
+    
+    <lastmod>2019-06-19</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://hlendman.cn/</loc>
+    <lastmod>2022-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://hlendman.cn/tags/WearOS/</loc>
+    <lastmod>2022-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hlendman.cn/tags/Android-Wear/</loc>
+    <lastmod>2022-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hlendman.cn/tags/Android/</loc>
+    <lastmod>2022-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hlendman.cn/tags/Google/</loc>
+    <lastmod>2022-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hlendman.cn/tags/%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8/</loc>
+    <lastmod>2022-07-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+</urlset>
